@@ -59,12 +59,12 @@
 | No. | Requirement | Monitoring Team's Findings / Recommendation | Actions Taken | Status |
 | :-: | :-- | :-- | :-- | :-: |
 | 6 | **Chemistry Laboratory** — Door openings | Door openings must swing outward | Door opening converted to two-way | Complied |
-| 6 | **Chemistry Laboratory** — Storage area | Designate a safe storage area for instruments, apparatus, and related materials | Under review | Ongoing |
+| 6 | **Chemistry Laboratory** — Storage area | Designate a safe storage area for instruments, apparatus, and related materials | As of Sept. 9, 2026 (no update) | Ongoing |
 | 6 | **Chemistry Laboratory** — LPG placement | LPG must be placed outside the lab room or away from the working area | Under review | Ongoing |
 | 6 | **Physics Laboratory** — Door openings | Door openings must swing outward | Door opening converted to two-way | Complied |
-| 6 | **Physics Laboratory** — Storage area | Designate a safe storage area for instruments, apparatus, and related materials | Under review | Ongoing |
-| 6 | Policies, guidelines, and safety measures | Not posted in the respective laboratory rooms. | Safety policies and guidelines to be posted conspicuously in each laboratory. | Ongoing |
-| 6 | Cleanliness and upkeep | Laboratory areas and facilities not well maintained. | A dedicated maintenance personnel has been assigned to the facility. | Complied |
+| 6 | **Physics Laboratory** — Storage area | Designate a safe storage area for instruments, apparatus, and related materials | Added new laboratory equipment| Ongoing (Sept. 30, 2026 target all completion) |
+| 6 | Policies, guidelines, and safety measures | Not posted in the respective laboratory rooms. | Safety policies and guidelines to be posted conspicuously in each laboratory. | To be reviewed |
+| 6 | Cleanliness and upkeep | Laboratory areas and facilities not well maintained. |As of Sept. 9, 2026 - The room has been renovated, added aircon. A dedicated maintenance personnel has been assigned to the facility. | Complied |
 
 ---
 
