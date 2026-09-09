@@ -52,7 +52,8 @@
 
 | No. | Requirement | Monitoring Team's Findings / Recommendation | Actions Taken | Status |
 | :-: | :-- | :-- | :-- | :-: |
-| 3 | Faculty handling professional courses must hold a master's degree | 31 full-time faculty members: 5 with master's degrees, 26 without. Does not meet the minimum standard for handling professional courses. | Concerned instructors are being encouraged to pursue graduate studies aligned with their specialization. | Ongoing |
+| 3 | Faculty handling professional courses must hold a master's degree | 31 full-time faculty members: 5 with master's degrees, 26 without. Does not meet the minimum standard for handling professional courses. | 1. Concerned instructors are being encouraged to pursue graduate studies aligned with their specialization.
+2. Corerect Approach: IAU has now a Faculty Development to those who are willing to pursue advance studies | Ongoing (Batch 1: 2026 - 2028 (2 faculty)) |
 
 ### D. School Facilities — Professional Laboratories
 
